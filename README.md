@@ -2,9 +2,9 @@
 
 ## デジタク
 ### サービスURL
-iOS: 
+iOS: https://apps.apple.com/app/id6477824613
 
-Android: 
+Android: https://play.google.com/store/apps/details?id=com.corepra.gyotaku
 
 ### 開発期間
 2023/7~2024/3
@@ -24,17 +24,17 @@ Android:
 #### 技術的スタック
 iOS
 - Swift
-- SwiftUI
-- Alamofire,Swinject
+- SwiftUI、Combine
+- Alamofire、Swinject、VisionKit
 - MVVMとクリーンアーキテクチャの採用
 
 Android
 - Kotlin
-- JetpackCompose
-- Retrofit,Hilt
+- JetpackCompose、AAC
+- Retrofit、Hilt
 - MVVMとクリーンアーキテクチャの採用
 
-サーバーサイド
+バックエンド,インフラ
 - Python
 - Docker
 - AWS Lambda,APIGW
@@ -78,7 +78,6 @@ https://tech-current.com
 - react,typescript,Next.js
 - tailwindCSS
 - Docker
-- GCPのCloudRunでのホスティング
 - CICD設定
 
 バッチ処理
@@ -90,11 +89,15 @@ https://tech-current.com
 - ホスティング：GCPのCloudRun
 - DB,認証:Supabase
 
+その他
+- Githubでのコード管理
+- Githubのissueでのタスク管理
+
 
 ### 釣りのバトルアプリ
 
 #### サービスURL
-
+https://main.d36ssoxvo58uld.amplifyapp.com/
 
 #### 開発期間
 2024年の6~7月
@@ -126,5 +129,5 @@ https://tech-current.com
 - AWS AmplifyでのNextアプリのホスティング
 
 その他
-- Github
-- 
+- Githubでのコード管理
+- Notionでのタスク管理
