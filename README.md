@@ -21,7 +21,7 @@ Android: https://play.google.com/store/apps/details?id=com.corepra.gyotaku
 - 宣言的なUIのキャッチアップ
 - モバイル開発のリリースの経験
 
-#### 技術的スタック
+### 技術的スタック
 iOS
 - Swift
 - SwiftUI、Combine
@@ -43,15 +43,15 @@ Android
 - Githubでのコード管理
 - Notionでのタスク管理
 
-### TechCurrent
-#### サービスURL
+## TechCurrent
+### サービスURL
 
 https://tech-current.com
 
 ※コンテナのコールドスタートで起動に20秒程度かかります。
 ※スマホUI非対応
 
-#### 開発期間
+### 開発期間
 2024年の8~9月
 
 ### サービス概要
@@ -59,7 +59,7 @@ https://tech-current.com
 
 ユーザーごとに見たい記事のカスタマイズができ、必要な情報だけを素早くキャッチアップできる。
 
-#### 目的・解決したい課題
+### 目的・解決したい課題
 プロダクトの目的
 - 自身の情報のキャッチアップの効率化のために作成
 - 技術記事の情報を集約
@@ -73,7 +73,7 @@ https://tech-current.com
 - GCPの利用
 - CICDの設定
 
-#### 技術的スタック
+### 技術的スタック
 フロントエンドおよびバックエンド
 - react,typescript,Next.js
 - tailwindCSS
@@ -94,12 +94,12 @@ https://tech-current.com
 - Githubのissueでのタスク管理
 
 
-### 釣りのバトルアプリ
+## 釣りのバトルアプリ
 
-#### サービスURL
+### サービスURL
 https://main.d36ssoxvo58uld.amplifyapp.com/
 
-#### 開発期間
+### 開発期間
 2024年の6~7月
 
 ### サービス概要
