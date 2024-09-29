@@ -48,7 +48,6 @@ Android
 
 https://tech-current.com
 
-※コンテナのコールドスタートで起動に20秒程度かかります。
 ※スマホUI非対応
 
 ### 開発期間
